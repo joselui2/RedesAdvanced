@@ -17,3 +17,4 @@ NOMBRE DEL DISPOSITIVO: PC Ventas		CAMPUS: Matriz		Direcciones IPv4: 169.254.75.
 NOMBRE DEL DISPOSITIVO: PC Finanzas		CAMPUS: Matriz		Direcciones IPv4: 172.16.34.10/24	Direcciones IPv6: S/D
 NOMBRE DEL DISPOSITIVO: PC Procesos		CAMPUS: Matriz		Direcciones IPv4: 172.16.33.20/24	Direcciones IPv6: S/D
 NOMBRE DEL DISPOSITIVO: PC Ventas		CAMPUS: Matriz		Direcciones IPv4: 169.254.102.173/26	Direcciones IPv6: S/D
+

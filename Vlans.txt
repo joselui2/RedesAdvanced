@@ -1,0 +1,9 @@
+
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Uno		VLANS: 20,15,10,50(access)		Direcciones IPv4: S/D
+NOMBRE DEL DISPOSITIVO / CAMPUS: Multilayer 3560 / Uno		VLANS: 20,15,10,50(trunks)		Direcciones IPv4: S/D
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Outside		VLANS: allowed vlan Modo Trunk          Direcciones IPv4: F0/23-24 (ipv6) allowed vlan Modo Trunk Vlan
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Outside		VLANS: allowed vlan Modo Trunk	        Direcciones IPv4: F0/23-24(ipv6) S/D
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Matriz		VLANS: 11,12(access), 10,11,12(Trunk)	Direcciones IPv4: F0/23-24(ipv6) S/D
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Matriz		VLANS: 11,12(access), 10,11,12(Trunk)	Direcciones IPv4: F0/23-24(ipv6) S/D
+NOMBRE DEL DISPOSITIVO / CAMPUS: switch 2950 / Matriz		VLANS: 11,12(access), 10,11,12(Trunk)	Direcciones IPv4: F0/23-24(ipv6) S/D
+

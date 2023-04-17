@@ -1,0 +1,19 @@
+NOMBRE DEL DISPOSITIVO: Multilayer 3560 		CAMPUS: Uno		Direcciones IPv4: F0/10 = 172.16.34.169/30		Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Router Cisco 1841		CAMPUS: Core		Direcciones IPv4: F0/0 = 190.190.190.1/28, S0/0/0 = 190.180.180.2/30 S0/0/1 = 190.190.180.10/30	Direcciones IPv6: S0/0/0 ACAD:DE:FE:11::2/64 S0/0/1 ACAD:DE:FE:21::2/64
+NOMBRE DEL DISPOSITIVO: Router Cisco 1841		CAMPUS: Oriente		Direcciones IPv4: F0/0 = 172.16.34.17, S0/0/1 = 190.180.180.1		Direcciones IPv6: F0/1 = FE80::123, S0/0/1 = FE80::2D0:D3FF:FE2A:6401
+NOMBRE DEL DISPOSITIVO: Router Cisco 1841		CAMPUS: Matriz		Direcciones IPv4: S0/0/1 = 190.190.180.9	Direcciones IPv6: F0/1 FE80::20A:F3FF:FEAC:1C02, S0/0/1 FE80::20A:F3FF:FEAC:1C01
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Uno		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Outsourcing		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Outsourcing		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Matriz		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Matriz		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Switch 2950		CAMPUS: Matriz		Direcciones IPv4: S/D	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: PC Procesos		CAMPUS: Uno		Direcciones IPv4:  172.16.33.10/24	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Server servicio		CAMPUS: Uno		Direcciones IPv4:  172.16.34.139/28	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: Impresora		CAMPUS: Uno		Direcciones IPv4: 172.16.34.165/28	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: PC RRPP		CAMPUS: Outsourcing		Direcciones IPv4: S/D	Direcciones IPv6:  ACAD:DE:FE:10::10 Link Local
+NOMBRE DEL DISPOSITIVO: PC RRHH		CAMPUS: Outsourcing		Direcciones IPv4: S/D	Direcciones IPv6: ACAD:DE:FE:20::10 Link Local
+NOMBRE DEL DISPOSITIVO: PC Ventas		CAMPUS: Matriz		Direcciones IPv4: 169.254.75.235/25	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: PC Finanzas		CAMPUS: Matriz		Direcciones IPv4: 172.16.34.10/24	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: PC Procesos		CAMPUS: Matriz		Direcciones IPv4: 172.16.33.20/24	Direcciones IPv6: S/D
+NOMBRE DEL DISPOSITIVO: PC Ventas		CAMPUS: Matriz		Direcciones IPv4: 169.254.102.173/26	Direcciones IPv6: S/D
